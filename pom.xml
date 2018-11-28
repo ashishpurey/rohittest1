@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.myorganization.app</groupId>
-    <name>My App</name>
-    <version>2.0</version>
+    <name>new App</name>
+    <version>1.0</version>
     <url>http://maven.apache.org</url>
     <packaging>jar</packaging>
 
@@ -49,9 +49,9 @@
     </build>
        	<distributionManagement>
 		<repository>
-			<id>test123</id>
-			<name>test123</name>
-			<url>http://13.232.112.78:8081/artifactory/test123</url>
+			<id>repo1</id>
+			<name>maven1</name>
+			<url>http://13.127.174.182:8081/artifactory/libs-release-local</url>
 		</repository>
 			</distributionManagement>
 
