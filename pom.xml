@@ -51,7 +51,7 @@
 		<repository>
 			<id>repo1</id>
 			<name>maven1</name>
-			<url>http://13.127.174.182:8081/artifactory/libs-release-local</url>
+			<url>http://52.66.211.18:8081/artifactory/libs-release-local</url>
 		</repository>
 			</distributionManagement>
 
